@@ -1,11 +1,15 @@
 # 🦀 CrabCamera: The Desktop Camera Plugin for Tauri 📷
 
 ```
-        _~^~^~_
-    \) /  o o  \ (/
-      '_   -   _'
-      / '-----' \
-     🦀 Ferris approves this crate! 🦀
+     __________________________
+    < Hello fellow Rustaceans! >
+     --------------------------
+            \
+             \
+                _~^~^~_
+            \) /  o o  \ (/
+              '_   -   _'
+              / '-----' \
 ```
 
 [![Crates.io](https://img.shields.io/crates/v/crabcamera.svg)](https://crates.io/crates/crabcamera)
